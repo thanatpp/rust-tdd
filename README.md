@@ -1,1 +1,1 @@
-# Rust + TDD with leetcode
+# Rust + TDD
